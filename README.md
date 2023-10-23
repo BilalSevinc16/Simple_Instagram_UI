@@ -1,16 +1,13 @@
-# simple_instagram_ui
+# Simple Instagram UI
 
-A new Flutter project.
+Simple Instagram UI
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Instagram_UI/assets/146417248/8df57853-68fc-4bce-b3ec-af8a2e46065e)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Instagram_UI/assets/146417248/e76a608c-ac6a-4bf8-813b-e646056882c3)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Instagram_UI/assets/146417248/4215a96b-9aec-4dc8-a7d4-c4cdacbdff66)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![4](https://github.com/BilalSevinc16/Simple_Instagram_UI/assets/146417248/e7a527e8-801d-4224-bc36-b87f1a183c79)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/BilalSevinc16/Simple_Instagram_UI/assets/146417248/1645b2b4-b3dd-4f46-b58f-6113ade97c36)
